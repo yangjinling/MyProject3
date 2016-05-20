@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="F:\studioYjlWorkSpace\PullToRefresh\StackBlur\assets"><file name="ic_launcher.png" path="F:\studioYjlWorkSpace\PullToRefresh\StackBlur\assets\ic_launcher.png"/></source><source path="F:\studioYjlWorkSpace\PullToRefresh\StackBlur\build\generated\assets\shaders\debug"/></dataSet><dataSet config="debug"><source path="F:\studioYjlWorkSpace\PullToRefresh\StackBlur\build-types\debug\assets"/></dataSet></merger>

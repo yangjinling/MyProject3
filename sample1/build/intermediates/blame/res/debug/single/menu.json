@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "F:\\studioYjlWorkSpace\\PullToRefresh\\sample1\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "F:\\studioYjlWorkSpace\\PullToRefresh\\sample1\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "F:\\studioYjlWorkSpace\\PullToRefresh\\sample1\\build\\intermediates\\res\\merged\\debug\\menu\\crop_image_menu.xml",
+        "source": "F:\\studioYjlWorkSpace\\PullToRefresh\\sample1\\build\\intermediates\\exploded-aar\\PullToRefresh\\cropper\\unspecified\\res\\menu\\crop_image_menu.xml"
+    }
+]

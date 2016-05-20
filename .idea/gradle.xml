@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/CardStack" />
+            <option value="$PROJECT_DIR$/DemoApp" />
+            <option value="$PROJECT_DIR$/StackBlur" />
+            <option value="$PROJECT_DIR$/StackBlurDemo" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/appGaoMoHu" />
+            <option value="$PROJECT_DIR$/appHead" />
+            <option value="$PROJECT_DIR$/appMenu" />
+            <option value="$PROJECT_DIR$/appRecycleview" />
+            <option value="$PROJECT_DIR$/appTuPian" />
+            <option value="$PROJECT_DIR$/appYiDong" />
+            <option value="$PROJECT_DIR$/camera" />
+            <option value="$PROJECT_DIR$/cropper" />
+            <option value="$PROJECT_DIR$/crossview" />
+            <option value="$PROJECT_DIR$/freesizedraggablelayout" />
+            <option value="$PROJECT_DIR$/gaosimohu" />
+            <option value="$PROJECT_DIR$/library" />
+            <option value="$PROJECT_DIR$/mixturetextview" />
+            <option value="$PROJECT_DIR$/sample" />
+            <option value="$PROJECT_DIR$/sample1" />
+            <option value="$PROJECT_DIR$/sampleChaJia" />
+            <option value="$PROJECT_DIR$/shuffle" />
+            <option value="$PROJECT_DIR$/ucrop" />
+          </set>
+        </option>
+        <option name="myModules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/CardStack" />
+            <option value="$PROJECT_DIR$/DemoApp" />
+            <option value="$PROJECT_DIR$/StackBlur" />
+            <option value="$PROJECT_DIR$/StackBlurDemo" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/appGaoMoHu" />
+            <option value="$PROJECT_DIR$/appHead" />
+            <option value="$PROJECT_DIR$/appMenu" />
+            <option value="$PROJECT_DIR$/appRecycleview" />
+            <option value="$PROJECT_DIR$/appTuPian" />
+            <option value="$PROJECT_DIR$/appYiDong" />
+            <option value="$PROJECT_DIR$/camera" />
+            <option value="$PROJECT_DIR$/cropper" />
+            <option value="$PROJECT_DIR$/crossview" />
+            <option value="$PROJECT_DIR$/freesizedraggablelayout" />
+            <option value="$PROJECT_DIR$/gaosimohu" />
+            <option value="$PROJECT_DIR$/library" />
+            <option value="$PROJECT_DIR$/mixturetextview" />
+            <option value="$PROJECT_DIR$/sample" />
+            <option value="$PROJECT_DIR$/sample1" />
+            <option value="$PROJECT_DIR$/sampleChaJia" />
+            <option value="$PROJECT_DIR$/shuffle" />
+            <option value="$PROJECT_DIR$/ucrop" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

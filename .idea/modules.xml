@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CardStack/CardStack.iml" filepath="$PROJECT_DIR$/CardStack/CardStack.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DemoApp/DemoApp.iml" filepath="$PROJECT_DIR$/DemoApp/DemoApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PullToRefresh.iml" filepath="$PROJECT_DIR$/PullToRefresh.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StackBlur/StackBlur.iml" filepath="$PROJECT_DIR$/StackBlur/StackBlur.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StackBlurDemo/StackBlurDemo.iml" filepath="$PROJECT_DIR$/StackBlurDemo/StackBlurDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/appGaoMoHu/appGaoMoHu.iml" filepath="$PROJECT_DIR$/appGaoMoHu/appGaoMoHu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/appHead/appHead.iml" filepath="$PROJECT_DIR$/appHead/appHead.iml" />
+      <module fileurl="file://$PROJECT_DIR$/appMenu/appMenu.iml" filepath="$PROJECT_DIR$/appMenu/appMenu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/appRecycleview/appRecycleview.iml" filepath="$PROJECT_DIR$/appRecycleview/appRecycleview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/appTuPian/appTuPian.iml" filepath="$PROJECT_DIR$/appTuPian/appTuPian.iml" />
+      <module fileurl="file://$PROJECT_DIR$/appYiDong/appYiDong.iml" filepath="$PROJECT_DIR$/appYiDong/appYiDong.iml" />
+      <module fileurl="file://$PROJECT_DIR$/camera/camera.iml" filepath="$PROJECT_DIR$/camera/camera.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cropper/cropper.iml" filepath="$PROJECT_DIR$/cropper/cropper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/crossview/crossview.iml" filepath="$PROJECT_DIR$/crossview/crossview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/freesizedraggablelayout/freesizedraggablelayout.iml" filepath="$PROJECT_DIR$/freesizedraggablelayout/freesizedraggablelayout.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gaosimohu/gaosimohu.iml" filepath="$PROJECT_DIR$/gaosimohu/gaosimohu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/library/library.iml" filepath="$PROJECT_DIR$/library/library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mixturetextview/mixturetextview.iml" filepath="$PROJECT_DIR$/mixturetextview/mixturetextview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sample/sample.iml" filepath="$PROJECT_DIR$/sample/sample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sample1/sample1.iml" filepath="$PROJECT_DIR$/sample1/sample1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sampleChaJia/sampleChaJia.iml" filepath="$PROJECT_DIR$/sampleChaJia/sampleChaJia.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shuffle/shuffle.iml" filepath="$PROJECT_DIR$/shuffle/shuffle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ucrop/ucrop.iml" filepath="$PROJECT_DIR$/ucrop/ucrop.iml" />
+    </modules>
+  </component>
+</project>

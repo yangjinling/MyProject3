@@ -1,0 +1,65 @@
+-- Merging decision tree log ---
+manifest
+ADDED from F:\studioYjlWorkSpace\PullToRefresh\StackBlurDemo\AndroidManifest.xml:2:1-32:12
+	package
+		ADDED from F:\studioYjlWorkSpace\PullToRefresh\StackBlurDemo\AndroidManifest.xml:3:5-40
+	android:versionName
+		ADDED from F:\studioYjlWorkSpace\PullToRefresh\StackBlurDemo\AndroidManifest.xml:6:5-30
+		INJECTED from F:\studioYjlWorkSpace\PullToRefresh\StackBlurDemo\AndroidManifest.xml
+		INJECTED from F:\studioYjlWorkSpace\PullToRefresh\StackBlurDemo\AndroidManifest.xml
+	android:versionCode
+		ADDED from F:\studioYjlWorkSpace\PullToRefresh\StackBlurDemo\AndroidManifest.xml:5:5-28
+		INJECTED from F:\studioYjlWorkSpace\PullToRefresh\StackBlurDemo\AndroidManifest.xml
+		INJECTED from F:\studioYjlWorkSpace\PullToRefresh\StackBlurDemo\AndroidManifest.xml
+	xmlns:android
+		ADDED from F:\studioYjlWorkSpace\PullToRefresh\StackBlurDemo\AndroidManifest.xml:4:5-63
+uses-sdk
+ADDED from F:\studioYjlWorkSpace\PullToRefresh\StackBlurDemo\AndroidManifest.xml:8:5-10:40
+MERGED from [PullToRefresh:StackBlur:unspecified] F:\studioYjlWorkSpace\PullToRefresh\StackBlurDemo\build\intermediates\exploded-aar\PullToRefresh\StackBlur\unspecified\AndroidManifest.xml:7:5-9:41
+	android:targetSdkVersion
+		ADDED from F:\studioYjlWorkSpace\PullToRefresh\StackBlurDemo\AndroidManifest.xml:10:9-38
+	android:minSdkVersion
+		ADDED from F:\studioYjlWorkSpace\PullToRefresh\StackBlurDemo\AndroidManifest.xml:9:9-34
+application
+ADDED from F:\studioYjlWorkSpace\PullToRefresh\StackBlurDemo\AndroidManifest.xml:12:5-30:19
+MERGED from [PullToRefresh:StackBlur:unspecified] F:\studioYjlWorkSpace\PullToRefresh\StackBlurDemo\build\intermediates\exploded-aar\PullToRefresh\StackBlur\unspecified\AndroidManifest.xml:14:5-19:19
+	android:label
+		ADDED from F:\studioYjlWorkSpace\PullToRefresh\StackBlurDemo\AndroidManifest.xml:15:9-41
+	android:allowBackup
+		ADDED from F:\studioYjlWorkSpace\PullToRefresh\StackBlurDemo\AndroidManifest.xml:13:9-35
+	android:icon
+		ADDED from F:\studioYjlWorkSpace\PullToRefresh\StackBlurDemo\AndroidManifest.xml:14:9-45
+	android:theme
+		ADDED from F:\studioYjlWorkSpace\PullToRefresh\StackBlurDemo\AndroidManifest.xml:16:9-40
+activity#com.example.stackblurdemo.MainActivity
+ADDED from F:\studioYjlWorkSpace\PullToRefresh\StackBlurDemo\AndroidManifest.xml:17:9-25:20
+	android:label
+		ADDED from F:\studioYjlWorkSpace\PullToRefresh\StackBlurDemo\AndroidManifest.xml:19:13-45
+	android:name
+		ADDED from F:\studioYjlWorkSpace\PullToRefresh\StackBlurDemo\AndroidManifest.xml:18:13-66
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from F:\studioYjlWorkSpace\PullToRefresh\StackBlurDemo\AndroidManifest.xml:20:13-24:29
+action#android.intent.action.MAIN
+ADDED from F:\studioYjlWorkSpace\PullToRefresh\StackBlurDemo\AndroidManifest.xml:21:17-68
+	android:name
+		ADDED from F:\studioYjlWorkSpace\PullToRefresh\StackBlurDemo\AndroidManifest.xml:21:25-66
+category#android.intent.category.LAUNCHER
+ADDED from F:\studioYjlWorkSpace\PullToRefresh\StackBlurDemo\AndroidManifest.xml:23:17-76
+	android:name
+		ADDED from F:\studioYjlWorkSpace\PullToRefresh\StackBlurDemo\AndroidManifest.xml:23:27-74
+activity#com.example.stackblurdemo.BenchmarkActivity
+ADDED from F:\studioYjlWorkSpace\PullToRefresh\StackBlurDemo\AndroidManifest.xml:26:9-29:20
+	android:label
+		ADDED from F:\studioYjlWorkSpace\PullToRefresh\StackBlurDemo\AndroidManifest.xml:28:13-52
+	android:name
+		ADDED from F:\studioYjlWorkSpace\PullToRefresh\StackBlurDemo\AndroidManifest.xml:27:13-71
+uses-permission#android.permission.WRITE_INTERNAL_STORAGE
+ADDED from [PullToRefresh:StackBlur:unspecified] F:\studioYjlWorkSpace\PullToRefresh\StackBlurDemo\build\intermediates\exploded-aar\PullToRefresh\StackBlur\unspecified\AndroidManifest.xml:11:5-81
+	android:name
+		ADDED from [PullToRefresh:StackBlur:unspecified] F:\studioYjlWorkSpace\PullToRefresh\StackBlurDemo\build\intermediates\exploded-aar\PullToRefresh\StackBlur\unspecified\AndroidManifest.xml:11:22-78
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from [PullToRefresh:StackBlur:unspecified] F:\studioYjlWorkSpace\PullToRefresh\StackBlurDemo\build\intermediates\exploded-aar\PullToRefresh\StackBlur\unspecified\AndroidManifest.xml:12:5-81
+	android:name
+		ADDED from [PullToRefresh:StackBlur:unspecified] F:\studioYjlWorkSpace\PullToRefresh\StackBlurDemo\build\intermediates\exploded-aar\PullToRefresh\StackBlur\unspecified\AndroidManifest.xml:12:22-78
+android:uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from F:\studioYjlWorkSpace\PullToRefresh\StackBlurDemo\AndroidManifest.xml:2:1-32:12 reason: com.enrique.stackblur requested WRITE_EXTERNAL_STORAGE
